@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TeletreenGamer
-- 👀 I’m interested in Coding, Programming, Game Developement
-- 🌱 I’m currently learning Web Developement
+- 👀 I’m interested in Programming, Game Developement
+- 🌱 I’m currently learning C++ and Django
 - 💞️ I’m looking to collaborate on all the above interests  
-- 📫 How to reach me by joining my Discord server and meeting me there or dm me on instagram
+- 📫 Contact me by mailing to teletreen_x_gaming@outlook.com
 
 <!---
 TeletreenGamer/TeletreenGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
