@@ -1,4 +1,4 @@
-- Founder of AUG : A Unique Gamer
+- Programmer
 - Youtube - https://youtube.com/channel/UC03RidVfmdQRGTvNp9V0okg
 - 📫 Contact me by mailing to teletreen_x_gaming@outlook.com
 - I publish my projects here at Github publically for you all to see them.
